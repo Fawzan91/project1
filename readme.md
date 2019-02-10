@@ -1,5 +1,15 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Unit Project #1: Slackbot
 
+### Project features
+has 3 commands which inhance the collaboration between members and adds some spice.
+
+* anytime bot hears  word `announce` in the channel, bot send a microphone and a pointing finger up.
+* every time bot hears run bot responses with running emoji.
+* you can ask bot directly for a sad , happy or any kind of music you like by typing "@bot sing me a `sad` song".
+* try typing `what is love` ;)
+ :shipit:  :shipit:
+
+
 ### Overview
 
 We've been using Slack to communicate with each other for the first couple weeks of the class. Now it is time to build our very own Slackbot to add a fun interactive component to the chat room. A Slackbot is an integration into slack that can either respond to specific phrases that are mentioned in Slack or they can post things from outside of slack into a channel or private conversation. There are now entire startups built on top of Slackbots. For example, people have built Slackbots that let you hail an Uber from them or schedule meetings with different members of your team (where it searches your Google Calendar). One of the most popular Slackbot's lets people post random gifs based on phrases into a channel from Giphy.
@@ -94,27 +104,3 @@ Advanced Reading
 * [Hubot scripts explained](http://theprogrammingbutler.com/blog/archives/2011/10/28/hubot-scripts-explained/)
 * [Create your own chatbot with Hubot & Coffeescript](http://www.slideshare.net/rscaduto/hubot-talk)
 * [Getting Started with Slackbots](http://www.sitepoint.com/getting-started-slack-bots/)
-
----
-
-### Project Feedback + Evaluation
-
-Students will create a new repository on GitHub called "my-first-slackbot" and push their code to this new repository when they are ready to submit.
-
-The instructional team will grade each technical requirement and provide a numeric grade on a scale.
-
-* __Technical Requirements__: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
-
-* __Creativity__: Did you added a personal spin or creative element into your project submission? Did you deliver something of value to the end user (not just a hello world response)?
-
-* __Code Quality__: Did you follow code style guidance and best practices covered in class, such as spacing, modularity, and semantic naming? Did you comment your code as your instructors have in class?
-
-* __Total__: Your instructors will give you a total score on your project between:
-
-    Score | Expectations
-    ----- | ------------
-    **0** | _Does not meet expectations._
-    **1** | _Meets expectactions, good job!_
-    **2** | _Exceeds expectations, you wonderful creature, you!_
-
-This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for the next project!
